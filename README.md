@@ -2,7 +2,8 @@
 # Embed SWF Emu
 
 An easily embeddable url-query based page for the Ruffle Flash Emulator.
-![Language](https://badgen.net/badge/license/MIT/red) ![Language](https://badgen.net/badge/language/HTML/CSS/JS/red)
+
+![Language](https://badgen.net/badge/license/MIT/red) ![Language](https://badgen.net/badge/language/HTML&CSS&JS/red)
 
 ## why?
 Ruffle is great but setting up to just put a simple swf on your web page can be slightly annoying.
